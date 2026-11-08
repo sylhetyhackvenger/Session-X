@@ -288,7 +288,7 @@ Capabilities:
   · Fields containing otp, code, pin
 · Detect CSRF protection (checks for csrf, csrf_token, _token, authenticity_token, csrfmiddlewaretoken, __RequestVerificationToken, xsrf)
 · Flag POST forms missing CSRF tokens as medium severity findings
-· Follow <a href> links containing login, signin, sign-in, auth
+· Follow links containing login, signin, sign-in, auth
 · Re-analyze followed login pages and merge their forms
 · Analyze response security headers on every request
 · Detect JavaScript SPA sites (no traditional form)
