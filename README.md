@@ -2,7 +2,7 @@
 
 <div align="center">
 
-Session-X 🛡️: Full-Stack OTP Exploitation & Server-Side OTP Bypass Toolkit
+# Session-X 🛡️: Full-Stack OTP Exploitation & Server-Side OTP Bypass Toolkit
 
 <div align="center">
 
