@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="assets/1.png" alt="Banner 1" width="100%">
+</p>
 
 <div align="center">
 
@@ -201,6 +203,9 @@ python3 sessionx.py
 ```
 
 ---
+<p align="center">
+  <img src="assets/2.png" alt="Banner 2" width="100%">
+</p>
 
 🎯 Usage
 
