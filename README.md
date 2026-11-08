@@ -4,12 +4,34 @@
 
 Session-X 🛡️: Full-Stack OTP Exploitation & Server-Side OTP Bypass Toolkit
 
-https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/License-Educational-red?style=for-the-badge
-https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-blue?style=for-the-badge
-https://img.shields.io/badge/Author-SYLHETYHACKVENGER-purple?style=for-the-badge
-https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge
+<div align="center">
 
+# SESSION-X
+
+### ADVANCED SESSION MANAGEMENT & SECURITY TOOLKIT
+
+<img src="https://img.shields.io/badge/SESSION--X-CORE%20ENGINE-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Session-X">
+<img src="https://img.shields.io/badge/SECURITY-RESEARCH-DC2626?style=for-the-badge" alt="Security Research">
+<img src="https://img.shields.io/badge/PROJECT-OPEN%20SOURCE-16A34A?style=for-the-badge" alt="Open Source">
+<img src="https://img.shields.io/github/stars/sylhetyhackvenger/Session-X?style=for-the-badge&logo=github&color=F59E0B" alt="Stars">
+<img src="https://img.shields.io/github/forks/sylhetyhackvenger/Session-X?style=for-the-badge&logo=github&color=8B5CF6" alt="Forks">
+<img src="https://img.shields.io/github/issues/sylhetyhackvenger/Session-X?style=for-the-badge&color=EF4444" alt="Issues">
+<img src="https://img.shields.io/github/last-commit/sylhetyhackvenger/Session-X?style=for-the-badge&color=06B6D4" alt="Last Commit">
+
+<br><br>
+
+<strong>SESSION INTELLIGENCE • SECURITY ANALYSIS • AUTOMATION</strong>
+
+<p>
+A security-focused toolkit for session-related research,
+management, and authorized testing.
+</p>
+
+<br>
+
+<sub>ENGINEERED FOR SECURITY RESEARCH • LABS • AUTHORIZED TESTING</sub>
+
+</div>
 Author: SYLHETYHACKVENGER (THE-ERROR808)
 Purpose: Authorized Security Testing Only
 
