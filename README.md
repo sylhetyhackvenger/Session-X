@@ -6,10 +6,6 @@
 
 <div align="center">
 
-# SESSION-X
-
-### ADVANCED SESSION MANAGEMENT & SECURITY TOOLKIT
-
 <img src="https://img.shields.io/badge/SESSION--X-CORE%20ENGINE-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Session-X">
 <img src="https://img.shields.io/badge/SECURITY-RESEARCH-DC2626?style=for-the-badge" alt="Security Research">
 <img src="https://img.shields.io/badge/PROJECT-OPEN%20SOURCE-16A34A?style=for-the-badge" alt="Open Source">
