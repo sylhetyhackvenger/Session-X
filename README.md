@@ -35,6 +35,8 @@ Author: SYLHETYHACKVENGER (THE-ERROR808)
 Purpose: Authorized Security Testing Only
 
 Features • Installation • Usage • Capabilities • Output • Legal
+# Username: sylhetyhackvenger
+# password: error808
 
 </div>
 
