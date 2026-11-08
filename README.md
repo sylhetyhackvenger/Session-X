@@ -1064,9 +1064,7 @@ Session-X
 
 Full-Stack OTP Exploitation & Server-Side OTP Bypass Toolkit
 
-Author: SYLHETYHACKVENGER (THE-ERROR808)
-
-https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github
+Author: SYLHETYHACKVENGER (THE-ERROR808) 
 
 ---
 
